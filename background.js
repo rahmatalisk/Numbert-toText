@@ -13,7 +13,7 @@ function clickfun (){
     if(getnumber>0){
         showtext.innerText ="(In Word : "+ lactocrore(getnumber) + " Taka Only.)";
     }else{
-        showtext.innerText ="No data";
+        showtext.innerText ="No data input";
     }
     
  }
